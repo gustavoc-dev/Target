@@ -1,0 +1,35 @@
+a)1, 3, 5, 7
+
+Resposta: 9
+Os números são iguais ao anterior, porém somando 2. 
+Sendo assim, 7+2 = 9 
+
+b) 2, 4, 8, 16, 32, 64
+
+Resposta: 128
+Os números são iguais ao anterior, porém multiplicados por 2. 
+Sendo assim, 64*2 = 128 
+
+
+c) 0, 1, 4, 9, 16, 25, 36
+
+Resposta: 49
+Os números são iguais ao anterior, acrescentando um número ímpar em sequência crescente. 
+Se 36-25 = 11, logo o próximo número ímpar seria 13. 36+13 = 49
+
+d) 4, 16, 36, 64
+
+Resposta: 100
+Os números são o resultado do quadrado de uma sequência de números pares crescente.
+Sendo 64 = 8²,  10² = 100.
+
+e) 1, 1, 2, 3, 5, 8
+
+Resposta: 13
+Os números são a soma do número atual com o anterior.
+8+5 = 13.
+
+f) 2, 10, 12, 16, 17, 18, 19
+
+Resposta: 200
+É uma sequencia de números começados com a letra "d", sendo assim, 200 seria o próximo da lista.
